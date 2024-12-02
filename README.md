@@ -1,6 +1,6 @@
 ## Set up and running the project
 
-## NOTE: To be able successfully run this project you should have MongoDB and Poetry installed in your PC
+#### NOTE: To be able successfully run this project you should have MongoDB and Poetry installed in your PC
 
 1. Clone the repository
 ```bash
@@ -20,9 +20,9 @@ poetry run python -m main
 ```
 6. Open API documentation page in your browser, the address is localhost:8000
 
-## Best approach is to keep .env file in .gitignore, but this one is for demonstration purpose
+#### Best approach is to keep .env file in .gitignore, but this one is for demonstration purpose
 
-## API documentation
+### API documentation
 ![image](https://github.com/user-attachments/assets/3ac1e413-d102-4a04-ac43-db3226c7653b)
 
 
